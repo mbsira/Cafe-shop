@@ -8,8 +8,8 @@ A modern café website built with React and Tailwind CSS.
 
 ## Preview
 
-![Hero](screenshots/cafe-home-page)
-![Menu](screenshots/cafe-menu-page)
+![Hero](screenshots/cafe-home-page.png)
+![Menu](screenshots/cafe-menu-page.png)
 
 ---
 
